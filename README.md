@@ -22,7 +22,7 @@ pip install PyQt5 kahoot colorama
 - python H-zz-H.py (gamepin) (username) (bot count)
 ## example
 ```bash
-python script.py 1234567 username 10
+python script.py
 ```
 ##
 
