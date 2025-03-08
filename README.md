@@ -2,7 +2,8 @@
 
 This repository includes two versions of a Kahoot botter: the **GUI-Based** version (this repo) and the **Terminal** version, available [here](https://github.com/H-zz-H69/Kahoot-Botter).
 
-## GUI-Based Version
+## Showcase
+[![Watch on YouTube](https://img.youtube.com/vi/GcbroMJk3Zg/maxresdefault.jpg)](https://www.youtube.com/watch?v=GcbroMJk3Zg)
 
 ## Requirements
 
